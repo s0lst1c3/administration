@@ -1,7 +1,9 @@
 #!/bin/bash
-# scriptname: server-setup
+# scriptname: server-setup.sh
 # author: solstice
 # description: automates basic configuration of a remote server.
+# usage:
+#     ssh root@SERVER 'bash -s' < server-setup.sh
 ################################################################
 
 # CONFIGS
